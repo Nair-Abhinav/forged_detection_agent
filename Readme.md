@@ -61,9 +61,4 @@ def main(image_path):
 if __name__ == "__main__":
     main("./Signatures/sample_signature.jpg")
 
-### Watch the Video Explanation
-
-[![Video Explanation]()](https://drive.google.com/file/d/1qWOrkNwB1kG4zHom2LM8HACKZCpaK_4W/view?usp=drive_link)
-
-Click the image above to watch the full explanation video on YouTube.
 
