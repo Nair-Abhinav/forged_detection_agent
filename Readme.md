@@ -146,16 +146,6 @@ The following metrics are used to evaluate the model:
 
 ---
 
-## Visualizations
-
-### Training and Validation Accuracy
-![Accuracy Plot](./assets/accuracy_plot.png)
-
-### Training and Validation Loss
-![Loss Plot](./assets/loss_plot.png)
-
----
-
 ## Usage
 
 1. Place the dataset in the `dataset` folder.
@@ -165,12 +155,6 @@ The following metrics are used to evaluate the model:
    ```
 3. View the evaluation results and metrics.
 4. Use the model to classify new signature images.
-
----
-
-## Video Demonstration
-
-![Code Explanation](./assets/demo.gif)
 
 ---
 
